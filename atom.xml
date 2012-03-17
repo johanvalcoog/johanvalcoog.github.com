@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[PuurApps notes on software design]]></title>
+  <link href="https://johanvalcoog.github.com/atom.xml" rel="self"/>
+  <link href="https://johanvalcoog.github.com/"/>
+  <updated>2012-03-04T21:03:05+01:00</updated>
+  <id>https://johanvalcoog.github.com/</id>
+  <author>
+    <name><![CDATA[Johan Valcoog]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[my first post]]></title>
+    <link href="https://johanvalcoog.github.com/blog/2012/03/04/my-first-post/"/>
+    <updated>2012-03-04T20:38:00+01:00</updated>
+    <id>https://johanvalcoog.github.com/blog/2012/03/04/my-first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
